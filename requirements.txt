@@ -1,3 +1,10 @@
 ipykernel
 pandas
 matplotlib
+langchain
+langchain-core
+langchain-community
+crewai
+# crewai[tools]
+langchain_openai
+llmonitor
